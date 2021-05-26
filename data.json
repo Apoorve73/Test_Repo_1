@@ -9,7 +9,6 @@
     "Name": "Domlur"
   },
   "geometry": {
-    "type": "Polygon",
     "coordinates": [
       [
         [77.625253200531, 12.965907539569429],
