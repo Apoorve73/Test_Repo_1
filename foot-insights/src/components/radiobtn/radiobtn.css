@@ -1,0 +1,11 @@
+.radio-btn {
+    color: #4C56BA;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10%;
+}
+
+.radio__label {
+    margin-left: 3px;
+    font-size: 18px;
+}

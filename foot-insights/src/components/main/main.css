@@ -1,0 +1,88 @@
+.main {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: grid;
+    grid-template-columns: 8% 92%;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2%;
+    margin-left: 7%;
+}
+
+.center {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    margin-bottom: 7%;
+}
+
+.content {
+    width: 82%;
+}
+
+.paragraph {
+    font-size: 13px;
+    margin-bottom:6%;
+}
+
+.title {
+    font-size: 20px;
+    margin-bottom: 4%;
+}
+
+.city {
+    margin-bottom: 3%;
+}
+
+.form {
+    margin-left: 6%;
+}
+
+.form div {
+    font-size: 13px;
+}
+
+.form input {
+    font-size: 17px;
+    padding: 7px 20% 7px 5px;
+    border-radius: 3px;
+    border: 2px solid black;
+}
+
+.form input:focus {
+    border: 3px solid #4C56BA;
+    outline: none;
+}
+.form input::placeholder {
+    color: #BDBDBD;
+}
+
+.store {
+    margin-bottom: 2%;
+}
+
+.competitors {
+    font-size: 13px;
+}
+
+.checkbox {
+    margin-bottom: 3%;
+}
+
+.submit {
+    float: right;
+
+    color: white;
+    background-color: #4C56BA;
+    outline-style: none;
+    border-style: none;
+
+    padding: 6px 14px;    
+    font-size: 11px;
+    border-radius: 4px;
+}
+.submit:hover {
+    cursor: pointer;
+}
+
